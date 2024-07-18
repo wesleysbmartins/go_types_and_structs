@@ -23,4 +23,8 @@ func main() {
 	fmt.Println("ANIMAL: ", animal)
 
 	animal.Speak()
+
+	internal.If()
+	internal.For()
+	internal.Switch()
 }

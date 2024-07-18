@@ -14,5 +14,10 @@ Estudos sobre tipos de dados e estruturas em golang, explorando assuntos como:
 * Arrays
 * Slices
 * Maps
+* If
+* Switch
+* For
 * Structs
 * Interfaces
+* Functions
+* Methods
